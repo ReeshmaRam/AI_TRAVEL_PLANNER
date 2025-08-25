@@ -1,0 +1,4 @@
+venv/
+.env
+logs/
+AI_travel_agent.egg-info/
